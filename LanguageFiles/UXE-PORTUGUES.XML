@@ -1,0 +1,53 @@
+<progressbar>
+</progressbar>
+
+<gui>
+	<main_gui>Universal XML Editor</main_gui>
+	<menu>
+		<mnu_file>Arquivo</mnu_file>
+		<mnu_file_profil>Carregar Perfil</mnu_file_profil>
+		<mnu_file_xml>Carregar arquivo XML</mnu_file_xml>
+		<mnu_file_exit>Sair</mnu_file_exit>
+		<mnu_edit>Editar</mnu_edit>
+		<mnu_edit_langue>Mudar linguagem</mnu_edit_langue>
+		<mnu_edit_config>Configurações</mnu_edit_config>
+		<mnu_help>Ajuda</mnu_help>
+		<mnu_help_about>Sobre</mnu_help_about>
+	</menu>
+	<windows>
+		<lv_roms>Roms</lv_roms>
+		<lv_attributs>Atributos|Valores</lv_attributs>
+		<win_sel_langue>
+			<win_sel_langue_Title>Seleção de linguagem</win_sel_langue_Title>
+			<win_sel_langue_text>Por favor selecione uma linguagem</win_sel_langue_text>
+			<win_sel_langue_button>Selecionar</win_sel_langue_button>
+		</win_sel_langue>
+		<win_sel_profil>
+			<win_sel_profil_Title>Seleção de perfil</win_sel_profil_Title>
+			<win_sel_profil_text>Por favor selecione um perfil</win_sel_profil_text>
+			<win_sel_profil_button>Selecionar</win_sel_profil_button>
+		</win_sel_profil>
+		<win_config>
+			<win_config_Title>Configurações</win_config_Title>
+			<win_config_GroupScrap>Scraper</win_config_GroupScrap>
+			<win_config_GroupScrap_PathRom>Local das Roms</win_config_GroupScrap_PathRom>
+			<win_config_GroupScrap_PathXML>Local do arquivo XML</win_config_GroupScrap_PathXML>
+			<win_config_GroupScrap_PathRomSub>Local das Roms no arquivo XML</win_config_GroupScrap_PathRomSub>
+			<win_config_GroupImage>Imagens</win_config_GroupImage>
+			<win_config_GroupImage_PathImage>Local para as imagens baixadas</win_config_GroupImage_PathImage>
+			<win_config_GroupImage_hautImage>Altura</win_config_GroupImage_hautImage>
+			<win_config_GroupImage_LongImage>Largura</win_config_GroupImage_LongImage>
+			<win_config_GroupImage_PathImageSub>Local das imagens no arquivo XML</win_config_GroupImage_PathImageSub>
+			<win_config_Enreg>Salvar</win_config_Enreg>
+			<win_config_Cancel>Cancelar</win_config_Cancel>
+		</win_config>
+	</windows>
+</gui>
+
+<windows>
+	<win_About>
+		<win_About_Title>Sobre</win_About_Title>
+		<win_About_By>Criado por Screech | Traduzido por PumpKHeaD</win_About_By>
+		<win_About_Thanks>Agradecimentos a :</win_About_Thanks>
+	</win_About>
+</windows>
